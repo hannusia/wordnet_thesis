@@ -19,6 +19,7 @@ guideline_prompt = PromptTemplate.from_template(
         - First, analyze given English gloss, its translations into Ukrainian and dictionanry definition in Ukrainian
         - Then evaluate each of the variants, and based on given information create your own gloss
         - Make the answer grammatically correct, pay special attention to the conjugation
+        - Return only ukrainian gloss 
 
     Use the following format:
     Ukrainian lemma:
@@ -75,7 +76,84 @@ guideline_prompt = PromptTemplate.from_template(
     Dictionary definition:
     ```
     <{dict_def1}>
-    <{dicst_def2}>
+    <{dict_def2}>
     ```
+
+    Answer only with ukrainian gloss that you generated. Do not include lemma.
+    
+    Check once again wheher your answer doesn't contain any extra words except from a gloss that you generated.
+    For example phrase like ```Український глос:``` shouldn't be in a final answer.
+    """
+)
+
+guideline_prompt_with_reasoning = PromptTemplate.from_template(
+    """
+    Your task is to propose your variant of Ukrainian gloss for a lemma in Ukrainian WordNet.
+    To solve the problem do the following:
+        - First, analyze given English gloss, and its translations into Ukrainian
+        - Then evaluate each of the variants, and based on given information create your own gloss
+        - Make the answer grammatically correct, pay special attention to the conjugation
+    
+    Give output in following format:
+    ```
+    gloss: gloss that you generated
+    reasoning: explain why you choose this gloss
+    ```
+
+    Use the following format:
+    Ukrainian lemma:
+    ```
+    ukrainian lemma here
+    ```
+
+    English lemma:
+    ```
+    english lemma here
+    ```
+
+    Gloss from English WordNet:
+    ```
+    gloss from english wordnet here
+    ```
+
+    Gloss translations:
+    ```
+    one or multiple translation of english gloss into ukrainian elimited by <>
+    ```
+
+    Dictionary definition:
+    ```
+    dictionary definition of ukrainian lemma here
+    ```
+
+    Your answer:
+    ```
+    Ukrainian gloss that you propose here 
+    ```
+
+    Ukrainian lemma:
+    ```
+    {lemma_ukr}
+    ```
+
+    English lemma:
+    ```
+    {lemma_eng}
+    ```
+
+    Gloss from English WordNet:
+    ```
+    {gloss}
+    ```
+
+    Gloss translations:
+    ```
+    <{gloss_trans1}>
+    <{gloss_trans2}>
+    ```
+
+    Check if the output is in following format:
+    ```gloss```: only gloss that you generated
+    ```reasoning```: add here any additional information that you think is important
     """
 )

@@ -1,0 +1,42 @@
+[
+    {
+        "lemma": "сутність",
+        "gloss": "{\n  \"gloss\": \"те, що сприймається або відоме чи припускається як таке, що має власне окреме існування (живе чи неживе)\",\n  \"reasoning\": \"I chose this gloss because it captures the meaning of 'entity' as something that is perceived, known, or assumed to have its own distinct existence, whether it is living or nonliving.\"\n}"
+    },
+    {
+        "lemma": "карлик",
+        "gloss": "{\n\"gloss\": \"рослина або тварина, яка має нетипово малий розмір\",\n\"reasoning\": \"Based on the given gloss translations and the dictionary definition, it can be inferred that 'карлик' refers to a plant or animal that is abnormally small in size.\"\n}"
+    },
+    {
+        "lemma": "батько",
+        "gloss": "{\n  \"gloss\": \"особа, від якої отримують народження\"\n}"
+    },
+    {
+        "lemma": "час",
+        "gloss": "{\n  \"gloss\": \"послідовність подій у які години минулого пролягають майбутні\",\n  \"reasoning\": \"I chose this gloss because it captures the idea that time is a sequence of events that spans from the past to the future.\"\n}"
+    },
+    {
+        "lemma": "клітина",
+        "gloss": "{\n  \"gloss\": \"(біологія) основна структурна та функціональна одиниця життя усіх організмів, яка може існувати як незалежна одиниця (як у монад) або складатися з колоній або тканин, як у вищих рослин і тварин\",\n  \"reasoning\": \"The Ukrainian gloss provides an accurate translation of the English definition, describing a cell as the basic structural and functional unit of life that can exist independently or form colonies or tissues in higher plants and animals.\"\n}"
+    },
+    {
+        "lemma": "поживна речовина",
+        "gloss": "{\n  \"gloss\": \"речовина, яку можуть поглинати рослини та використовувати для органічного синтезу\",\n  \"reasoning\": \"I chose this gloss because it captures the meaning of the English gloss and it is grammatically correct in Ukrainian.\"\n}"
+    },
+    {
+        "lemma": "психологічна особливість",
+        "gloss": "{\n\"gloss\": \"властивість психічного життя живого організму\",\n\"reasoning\": \"The given gloss from English WordNet describes a psychological feature as a property of the mental life of a living organism. In Ukrainian, the closest equivalent is 'властивість психічного життя живого організму'. This gloss accurately captures the essence of the lemma and conveys the same meaning.\"\n}"
+    },
+    {
+        "lemma": "комунікація",
+        "gloss": "{\n  \"gloss\": \"зміст, який передається або між людьми або до людей\"\n}"
+    },
+    {
+        "lemma": "володіння",
+        "gloss": "{\n\"gloss\": \"будь-що, що належить або перебуває у володінні\"\n}"
+    },
+    {
+        "lemma": "відношення",
+        "gloss": "{\n\"gloss\": \"абстракція, що властива двом сутностям або частинам разом\",\n\"reasoning\": \"The English gloss emphasizes that a relation is an abstraction that belongs to or is characteristic of two entities or parts together. The Ukrainian gloss captures this meaning by using the word 'абстракція' (abstraction) and indicating that it is 'властива' (belonging to) двом сутностям або частинам разом (two entities or parts together).\"\n}"
+    }
+]

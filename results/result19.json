@@ -1,0 +1,42 @@
+[
+    {
+        "lemma": "сутність",
+        "gloss": "{\n  \"gloss\": \"таке, що сприймається або відоме і має власне окреме існування (живе чи неживе)\",\n  \"reasoning\": \"I chose this gloss because it captures the essence of the English gloss and its translations. It emphasizes that an entity is something that is perceived, known, and has its own distinct existence, whether it is living or nonliving.\"\n}"
+    },
+    {
+        "lemma": "карлик",
+        "gloss": "{\n  \"gloss\": \"рослина або тварина, яка має малий розмір\",\n  \"reasoning\": \"I chose this gloss because it accurately describes the meaning of the lemma 'карлик' in Ukrainian. It conveys the idea of something being small in size, whether it is a plant or an animal.\"\n}"
+    },
+    {
+        "lemma": "батько",
+        "gloss": "{\n\"gloss\": \"організм (рослина або тварина), з якого отримують молодші\"\n}"
+    },
+    {
+        "lemma": "час",
+        "gloss": "{\n  \"gloss\": \"продовження подій від майбутнього через теперішнє до минулого\",\n  \"reasoning\": \"I chose this gloss because it captures the idea of the continuum of events passing from the future through the present to the past.\"\n}"
+    },
+    {
+        "lemma": "клітина",
+        "gloss": "{\n  \"gloss\": \"(біологія) основна структурна та функціональна одиниця організму, що може існувати як незалежна одиниця життя або утворювати колонії або тканини\",\n  \"reasoning\": \"Based on the English gloss and its translations, the Ukrainian gloss describes a cell as the basic structural and functional unit of an organism that can exist independently or form colonies or tissues.\"\n}"
+    },
+    {
+        "lemma": "поживна речовина",
+        "gloss": "{\n  \"gloss\": \"речовина, що може бути поглинута зеленою рослиною та використовуватися в органічному синтезі\",\n  \"reasoning\": \"I chose this gloss because it accurately captures the meaning of the English gloss and its translations\"\n}"
+    },
+    {
+        "lemma": "психологічна особливість",
+        "gloss": "{\n  \"gloss\": \"психологічний аспект\",\n  \"reasoning\": \"I chose this gloss because it captures the essence of a psychological feature as a specific aspect of the mental life of a living organism.\"\n}"
+    },
+    {
+        "lemma": "комунікація",
+        "gloss": "{\n  \"gloss\": \"те, що передається або отримується людьми чи групами\"\n}"
+    },
+    {
+        "lemma": "володіння",
+        "gloss": "{\n  \"gloss\": \"будь-що, що належить або знаходиться у володінні\",\n  \"reasoning\": \"I chose this gloss because it accurately captures the meaning of 'володіння' as something that is owned or possessed by someone.\"\n}"
+    },
+    {
+        "lemma": "відношення",
+        "gloss": "{\n  \"gloss\": \"абстракція, що належить або є характеристикою двох сутностей або частин разом\",\n  \"reasoning\": \"The given English gloss and its translations indicate that the Ukrainian lemma 'відношення' refers to an abstraction that belongs to or is characteristic of two entities or parts together.\"\n}"
+    }
+]
