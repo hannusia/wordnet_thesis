@@ -1,3 +1,9 @@
 gloss_prompts/api_key.py
 .~lock.input_data.csv#
 __pycache__
+experiment/api_keys
+experiment/env
+evaluate/env
+experiment/helper_files
+experiment/merged
+experiment/wn_with_glosses

@@ -1,0 +1,42 @@
+[
+    {
+        "lemma": "сутність",
+        "gloss": "{\n  \"gloss\": \"щось, що має власне чітке існування\"\n}"
+    },
+    {
+        "lemma": "карлик",
+        "gloss": "{\n  \"gloss\": \"рослина або тварина, яка має нетипово малий розмір\",\n  \"reasoning\": \"I chose this gloss because it accurately describes a dwarf as a plant or animal that is unusually small in size.\"\n}"
+    },
+    {
+        "lemma": "батько",
+        "gloss": "{\n\"gloss\": \"організм (рослина або тварина), з якого отримують молодші\"\n}"
+    },
+    {
+        "lemma": "час",
+        "gloss": "{\n\"gloss\": \"континуум досвіду, в якому події проходять від майбутнього через теперішнє до минулого\"\n}"
+    },
+    {
+        "lemma": "клітина",
+        "gloss": "{\n  \"gloss\": \"(біологія) основна структурна та функціональна одиниця всіх організмів\",\n  \"reasoning\": \"I chose this gloss because it accurately describes the concept of a cell as the basic structural and functional unit of all organisms.\"\n}"
+    },
+    {
+        "lemma": "поживна речовина",
+        "gloss": "{\n\"gloss\": \"будь-яка речовина (така як хімічний елемент або неорганічна сполука), яку може приймати зелена рослина та використовувати в органічному синтезі\"\n}"
+    },
+    {
+        "lemma": "психологічна особливість",
+        "gloss": "{\n  \"gloss\": \"риса психічного життя живої організму\",\n  \"reasoning\": \"I chose this gloss because it captures the essence of the English gloss and its translations into Ukrainian. It conveys the idea that a psychological feature is a characteristic or trait of the mental life of a living organism.\"\n}"
+    },
+    {
+        "lemma": "комунікація",
+        "gloss": "{\n  \"gloss\": \"послуга або обмін інформацією між людьми або групами\"\n}"
+    },
+    {
+        "lemma": "володіння",
+        "gloss": "{\n  \"gloss\": \"будь-що, що належить або мається\",\n  \"reasoning\": \"I chose this gloss because it captures the meaning of 'possession' as something that belongs to or is owned by someone.\"\n}"
+    },
+    {
+        "lemma": "відношення",
+        "gloss": "{\n  \"gloss\": \"відношення, що належить або характеризує дві сутності або частини разом\",\n  \"reasoning\": \"I chose this gloss because it captures the essence of the English gloss and the translations provided. It conveys the idea that a relation is an abstract concept that belongs to or characterizes two entities or parts when they are considered together.\"\n}"
+    }
+]
